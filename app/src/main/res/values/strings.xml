@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ClubMembersSystem</string>
+    <string name="AddClubMember">Добавить</string>
+    <string name="edit">Редактировать</string>
+    <string name="experience">Опыт</string>
+    <string name="bicycle_type">Тип велосипеда</string>
+    <string name="patronymic">Отчество</string>
+    <string name="surname">Фамилия</string>
+    <string name="name">Имя</string>
+    <string name="add">Добавить</string>
+    <string name="delete">Удалить</string>
+    <string name="surname_sort">Сортировка по фамилии</string>
+    <string name="exp_sort">Сортировка по опыту</string>
+</resources>
